@@ -5,7 +5,7 @@
       <main>
         <HeroSection id="hero" />
         <QuickGuideSection id="quick-guide" />
-        <WebcamToolSection id="webcam-tool" />
+        <WebcamToolSection id="color-quiz" />
         <ExtendedGuideSection id="extended-guide" />
       </main>
       <TheFooter />
