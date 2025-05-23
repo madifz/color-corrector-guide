@@ -14,3 +14,9 @@
     </div>
   </section>
 </template>
+
+<script setup>
+defineProps({
+  id: { type: String, default: 'color-quiz' }
+});
+</script>
