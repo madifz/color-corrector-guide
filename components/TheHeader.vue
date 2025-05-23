@@ -57,7 +57,7 @@ import { ref, onMounted } from 'vue';
 const navLinks = [
   { text: 'Home', href: '#hero' },
   { text: 'Quick Guide', href: '#quick-guide' },
-  { text: 'Webcam Tool', href: '#webcam-tool' },
+  { text: 'Color Corrector Quiz', href: '#color-quiz' },
   { text: 'Extended Guide', href: '#extended-guide' }
 ];
 
